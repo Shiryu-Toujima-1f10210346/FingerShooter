@@ -1,0 +1,1 @@
+latest_apk ->latest.apkにリネームしてインストールすればAndroid端末で遊べます
