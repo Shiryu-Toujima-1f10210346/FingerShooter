@@ -1,0 +1,4 @@
+repository "Saikyou Project@Hoge@cloud"
+  path "/"
+    br "/main"
+    co "/main"
